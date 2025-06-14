@@ -83,14 +83,6 @@ Create categories (e.g. Web Dev, Python) before uploading any course. You must b
 Dakssh Dixit
 GitHub: @DaksshDixit
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you also want a demo GIF or badge icons (like stars, forks, etc.) added.
-
 
 
 
